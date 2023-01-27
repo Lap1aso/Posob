@@ -1,0 +1,29 @@
+div.form {
+
+	margin: 150px;
+	background:white;
+    padding: 0px;
+    width: 1054px;
+    justify-content: center;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+ body{
+ 	margin: 0;
+ }
+
+ div.container {
+	display: flex;
+	margin-top: 30px;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	width: 1000px;
+	margin: 149;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+

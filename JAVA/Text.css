@@ -1,0 +1,21 @@
+h4 {background-color: 
+white;}
+p {text-indent: 20px;}
+
+h4 {line-height: 20px;}
+
+h4 {line-height: 200%;}
+
+h4 {line-height: 1.2;}
+
+h4 {line-height: normal;}
+.raz {
+  border-spacing: 10.0em 0em;
+}
+.raz,
+.raz td {
+  border: 2px solid white;
+}
+  body { background-image: url(pus3.jpg)}
+   .letter {
+    color: blue; } 
